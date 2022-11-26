@@ -1,0 +1,13 @@
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).exe
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).deps.json
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).runtimeconfig.json
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).runtimeconfig.dev.json
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).dll
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\bin\Debug\netcoreapp3.1\dll(junit).pdb
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).AssemblyInfoInputs.cache
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).AssemblyInfo.cs
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).csproj.CoreCompileInputs.cache
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).dll
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).pdb
+C:\Users\2000080627\source\repos\dll(junit)\dll(junit)\obj\Debug\netcoreapp3.1\dll(junit).genruntimeconfig.cache

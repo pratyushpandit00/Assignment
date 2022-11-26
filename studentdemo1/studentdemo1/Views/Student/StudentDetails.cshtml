@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "StudentDetails";
+}
+
+<h2>StudentDetails</h2>
+
+@model studentdemo1.Models.studentmodule
+
+<h2> Student Details</h2>
+
+@Html.ActionLink("empCreate", "Index", "Student")
+
+@using (Html.BeginForm("StudentDetails", "Student", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+        @Html.ValidationMessageFor(m => m.Name,"", new { @class = "test-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+        @Html.ValidationMessageFor(m => m.Age,"", new { @class = "test-danger" })
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary" />
+
+}
+
+<h3>Student details : </h3>
+<h4>
+    <b>        Name : @ViewBag.Name    </b>
+    <b>        Age  : @ViewBag.Age     </b>
+</h4>
+
+

@@ -1,0 +1,9 @@
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.deps.json
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.dll
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.pdb
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.AssemblyInfoInputs.cache
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.AssemblyInfo.cs
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.dll
+C:\Users\2000080627\source\repos\Solution1\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.pdb
